@@ -6,4 +6,4 @@ Untuk melihat alur silahkan buka situs https://www.draw.io/
 
 lalu login dengan akun github
 
-dan buka file project
+dan buka file project pada repositori
