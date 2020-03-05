@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-05T07:32:02.458Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="imCvkqGrBUsCBZLhnHhc" version="12.7.9" type="github">
+<mxfile host="www.draw.io" modified="2020-03-05T07:36:56.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="xBRnTBtu_42wLz8dRXiI" version="12.7.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1146" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Tata Cara" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="280" y="342" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="20" y="342" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="&amp;nbsp;Sistem Algorithm" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="670" y="37" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Halaman Penjelasan Penggunaan Sistem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="362" width="120" height="40" as="geometry" />
@@ -114,6 +114,9 @@
         <mxCell id="OOQ1vErBqcRCU84aGEtr-39" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="592" y="485" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OOQ1vErBqcRCU84aGEtr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OOQ1vErBqcRCU84aGEtr-40" target="OOQ1vErBqcRCU84aGEtr-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OOQ1vErBqcRCU84aGEtr-40" value="Halaman Dashboard User Admin" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="138" y="700" width="120" height="40" as="geometry" />
         </mxCell>
@@ -125,6 +128,17 @@
         </mxCell>
         <mxCell id="OOQ1vErBqcRCU84aGEtr-45" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="660" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OOQ1vErBqcRCU84aGEtr-46" value="Dashboard&lt;br&gt;Settama&lt;br&gt;Deputi 1&lt;br&gt;Deputi 2&lt;br&gt;Deputi 3&lt;br&gt;Deputi 4&lt;br&gt;Deputi 5" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="138" y="780" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="OOQ1vErBqcRCU84aGEtr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="OOQ1vErBqcRCU84aGEtr-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="668" y="739" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OOQ1vErBqcRCU84aGEtr-51" value="Dashboard&lt;br&gt;Settama&lt;br&gt;Deputi 1&lt;br&gt;Deputi 2&lt;br&gt;Deputi 3&lt;br&gt;Deputi 4&lt;br&gt;Deputi 5" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="608" y="779" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
